@@ -1,2 +1,2 @@
 # Projetos
-<H2>Projetos durante cursos além da faculdade, e também projetos pessoais para desenvolvimento próprio</H2>
+<H2>Mini projetos para implementação </H2>
